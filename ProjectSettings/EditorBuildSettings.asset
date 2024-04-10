@@ -4,7 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu Scene/MainScene-Please DONOT DELETE 1.unity
+    guid: e559b5c5d55ce4755a4f4682e6ffb5ff
+  - enabled: 1
+    path: Assets/Individual Scene/Bartlomiej's Folder/BartScene.unity
+    guid: 6841702cde2ac104eb0352c6ebf976c0
+  - enabled: 1
+    path: Assets/Individual Scene/Barsha's Folder/BarshaScene.unity
+    guid: 9a55be24263f64840ae8331b224f6fcf
+  - enabled: 1
+    path: Assets/Individual Scene/AnupFOlder/AnupScene.unity
+    guid: 36e9919c086cc4ff5aa673974769e6f0
+  - enabled: 1
+    path: Assets/Individual Scene/Jovin's Folder/JovinScene.unity
+    guid: 70ed75fac5d2ee24bba870023b95560d
+  - enabled: 1
+    path: Assets/Individual Scene/Mrisha's Folder/Mrisha Scene.unity
+    guid: 5a411dbc1c2494bfb94476c3ee519a4c
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d40d3835ad81849da8877e7a340ea68a, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 49065fdaf5e6a43aa8368c322eb89099, type: 2}

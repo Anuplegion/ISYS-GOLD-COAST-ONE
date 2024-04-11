@@ -1378,6 +1378,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58e02fbc4fec29945a17362c9e944e89, type: 3}
+--- !u!1 &242966823 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8045657728868749466, guid: 8e297671a8d16c84dbc5cc2c9744da52, type: 3}
+  m_PrefabInstance: {fileID: 1392178029}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &242966828
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242966823}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4539d061eb99248e8a6a2eb129a82f18, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &244915527
 GameObject:
   m_ObjectHideFlags: 0
@@ -2246,6 +2271,7 @@ GameObject:
   - component: {fileID: 448078489}
   - component: {fileID: 448078488}
   - component: {fileID: 448078487}
+  - component: {fileID: 448078490}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2319,6 +2345,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 27.013, y: 2.809, z: -0.262}
+--- !u!95 &448078490
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448078486}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 248ec025a15c8427f87112b1a0286232, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1001 &455769040
 PrefabInstance:
   m_ObjectHideFlags: 0

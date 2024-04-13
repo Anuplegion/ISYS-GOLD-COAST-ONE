@@ -18,11 +18,11 @@ EditorBuildSettings:
     path: Assets/Individual Scene/AnupFOlder/AnupScene.unity
     guid: a1524b0ce53eb4ea58bba28510b8b8f5
   - enabled: 0
-    path: Assets/Individual Scene/AnupFOlder/AnupAddScenes/AnupScene2.unity
-    guid: 36e9919c086cc4ff5aa673974769e6f0
-  - enabled: 1
-    path: Assets/Individual Scene/Jovin's Folder/JovinScene.unity
-    guid: 70ed75fac5d2ee24bba870023b95560d
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Individual Scene/Mrisha's Folder/Mrisha Scene.unity
     guid: 5a411dbc1c2494bfb94476c3ee519a4c

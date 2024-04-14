@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028358, g: 0.22571376, b: 0.30692235, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028305, g: 0.22571313, b: 0.3069213, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6434,7 +6434,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Credit
+  m_text: CREDIT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -17436,7 +17436,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Bart
+  m_text: BART
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -17571,7 +17571,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Jovin '
+  m_text: 'JOVIN '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -20923,7 +20923,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Help
+  m_text: HELP
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -21570,7 +21570,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: David
+  m_text: DAVID
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -22284,7 +22284,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mrisha
+  m_text: MRISHA
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -26238,7 +26238,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Anup
+  m_text: ANUP
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
@@ -28515,7 +28515,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Barsha
+  m_text: BARSHA
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}
   m_sharedMaterial: {fileID: 3565717927593586666, guid: 1f0c997b7de984c7381401074cdf7b56, type: 2}

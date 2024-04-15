@@ -34,7 +34,7 @@ public class AnupSpawnManager : MonoBehaviour
             {
                 if (Physics.Raycast(ray, out hit))
                 {
-                    if (hit.collider.gameObject.tag == "Spawnable")
+                    if (hit.collider.gameObject.tag == "SpawnableAnup")
                     {
                         spawnedObject = hit.collider.gameObject;
                     }

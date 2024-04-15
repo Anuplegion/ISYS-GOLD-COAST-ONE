@@ -19,14 +19,14 @@ public class AnupSpawnInteractible : MonoBehaviour
         // Add a listener to the slider when value is changed
 
 
-        scaleSlider = GameObject.Find("ScaleS").GetComponent<Slider>();
+        scaleSlider = GameObject.Find("ScaleSlider").GetComponent<Slider>();
         scaleSlider.minValue = scaleMinValue;
         scaleSlider.maxValue = scaleMaxValue;
 
         scaleSlider.onValueChanged.AddListener(ScaleSliderUpdate);
 
 
-        rotateSlider = GameObject.Find("RotateS").GetComponent<Slider>();
+        rotateSlider = GameObject.Find("RotationSlider").GetComponent<Slider>();
         rotateSlider.minValue = rotMinValue;
         rotateSlider.maxValue = rotMaxValue;
 

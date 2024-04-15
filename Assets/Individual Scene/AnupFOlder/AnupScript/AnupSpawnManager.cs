@@ -17,7 +17,7 @@ public class AnupSpawnManager : MonoBehaviour
     void Start()
     {
         spawnedObject = null;
-        arCam = GameObject.Find("AR Camera").GetComponent<Camera>();
+        arCam = GameObject.Find("AR_Camera").GetComponent<Camera>();
     }
 
     // Update is called once per frame

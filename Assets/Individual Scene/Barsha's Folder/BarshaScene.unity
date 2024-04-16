@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RaycastManager: {fileID: 905132706}
-  spawnablePrefab: {fileID: 4469805844236851306, guid: 56edc9f475da246739094584a9c34168, type: 3}
+  spawnablePrefab: {fileID: 100034, guid: d1e985c0fb2658c4bb66c0dd53fe253c, type: 3}
 --- !u!1 &490200878
 GameObject:
   m_ObjectHideFlags: 0

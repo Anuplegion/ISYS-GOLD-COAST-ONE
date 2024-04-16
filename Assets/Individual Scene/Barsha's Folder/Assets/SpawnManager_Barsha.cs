@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 
 
-public class SpawnableManager_Barsha : MonoBehaviour
+public class SpawnManager_Barsha : MonoBehaviour
 {
     [SerializeField] ARRaycastManager m_RaycastManager;
     List<ARRaycastHit> m_Hits = new List<ARRaycastHit>();
@@ -43,8 +43,7 @@ public class SpawnableManager_Barsha : MonoBehaviour
                     }
                 }
             }
-            else if (Input.GetTouch(0).phase == TouchPhase.Moved && spawnedObject != null)
-            {
+            else if (Input.GetTouch(0).phase == TouchPhase.Moved && spawnedObject != null) {
                 spawnedObject.transform.position = m_Hits[0].pose.position;
             }
             if (Input.GetTouch(0).phase == TouchPhase.Ended)
